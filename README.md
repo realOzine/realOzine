@@ -11,13 +11,16 @@
  | |  | | |_| |___) || |   | |_) | |___  | |__| |_| | |_| | |___
  |_|  |_|\___/|____/ |_|   |____/|_____|  \____\___/ \___/|_____|
 
-<b>ozine@github:~$</b> cat skills.txt
-languages      go, rust, python, c++, java, lua
-distributed    raft, etcd, consistency, distributed transactions
-microservices  service discovery, load balancing, rate limiting, tracing
-middleware     kafka, rabbitmq, mysql, elasticsearch
-cache          redis, local cache, penetration / breakdown / avalanche
-cloud native   linux, docker, kubernetes
+<b>ozine@github:~$</b> cat cat.txt
+  _________________________
+ &lt; it works on my machine. &gt;
+  -------------------------
+         \
+          \  /\_/\
+            ( o.o )
+             &gt; ^ &lt;
+            /  |  \
+           (___|___)
 
 <b>ozine@github:~$</b> cat interests.txt
 programming    building things and finding out how they really work
