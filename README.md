@@ -21,9 +21,9 @@ cloud native   linux, docker, kubernetes
 
 <b>ozine@github:~$</b> cat interests.txt
 programming    building things and finding out how they really work
-ai             large language models, model training
-cv             computer vision
-graphics       computer graphics
+ai             burning through lots of tokens gives me a thrill
+cv             i write code with ctrl c + ctrl v (no wait, AI writes it now)
+games          i play video games, a lot
 
 <b>ozine@github:~$</b> cat blog.txt
 Notes on what I have learned, the pitfalls I have hit,
