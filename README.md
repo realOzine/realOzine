@@ -12,7 +12,7 @@
  |_|  |_|\___/|____/ |_|   |____/|_____|  \____\___/ \___/|_____|
 
 <b>ozine@github:~$</b> cat skills.txt
-go             goroutine, channel, gin, gRPC, protobuf, pprof
+languages      go, rust, python, c++, java, lua
 distributed    raft, etcd, consistency, distributed transactions
 microservices  service discovery, load balancing, rate limiting, tracing
 middleware     kafka, rabbitmq, mysql, elasticsearch
@@ -23,6 +23,7 @@ cloud native   linux, docker, kubernetes
 programming    building things and finding out how they really work
 ai             large language models, model training
 cv             computer vision
+graphics       computer graphics
 
 <b>ozine@github:~$</b> cat blog.txt
 Notes on what I have learned, the pitfalls I have hit,
