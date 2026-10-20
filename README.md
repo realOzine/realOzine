@@ -21,7 +21,7 @@ cloud native   linux, docker, kubernetes
 
 <b>ozine@github:~$</b> cat interests.txt
 programming    building things and finding out how they really work
-ai             burning through lots of tokens gives me a thrill
+llm            burning through lots of tokens gives me a thrill
 cv             i write code with ctrl c + ctrl v (no wait, AI writes it now)
 games          i play video games, a lot
 
